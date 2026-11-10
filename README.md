@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Thuy-Vi Hatfield
 
-<!--
-**tweevilly/tweevilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science grad building applications in Java, Python, SQL, and Spring Boot. I'm looking for a full-time software engineering role. I also use Claude Code and ChatGPT as coding partners.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+| Project | What it is |	Stack |
+|---------|------------|--------|
+| Bulk Beef Price & Quantity Estimator |	Web app and REST API that estimates packaged weight and invoice cost for bulk beef orders, with confidence bounds. CS capstone. |	Python, Flask, scikit-learn, pandas, pytest |
+| Web-Based Inventory Application |	Inventory manager for parts and products with min/max validation, a Buy Now flow, and unit tests. |	Java 17, Spring Boot, Thymeleaf, Spring Data JPA, H2, Maven |
+| WGUPS Routing Program |	Delivery simulator that routes 40 packages across 3 trucks in 98.5 miles using a custom hash table and nearest-neighbor routing. |	Python
+| Maki Career Advisor Chatbot |	Rule-based chatbot that guides CS students to a matching career path. | AIML, Pandorabots |
+| Java Practice Labs |	Concept-by-concept Java exercises and reference notes. |	Java |
+
+---
+
+## Tech I work with
+
+**Languages:** Java, Python, SQL
+
+**Frameworks and libraries:** Spring Boot, Thymeleaf, Spring Data JPA, Flask, scikit-learn, pandas, NumPy, Matplotlib, Seaborn 
+
+**Testing and tools:** JUnit, pytest, Maven, Git, GitHub, Jupyter 
+
+**AI tools:** Claude Code, ChatGPT
+

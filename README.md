@@ -13,6 +13,7 @@ Computer Science grad building applications in Java, Python, SQL, and Spring Boo
 | WGUPS Routing Program |	Delivery simulator that routes 40 packages across 3 trucks in 98.5 miles using a custom hash table and nearest-neighbor routing. |	Python
 | Maki Career Advisor Chatbot |	Rule-based chatbot that guides CS students to a matching career path. | AIML, Pandorabots |
 | Java Practice Labs |	Concept-by-concept Java exercises and reference notes. |	Java |
+| Discrete Math Tools |	Four browser calculators (matrices, sequences and series, truth tables, row reduction) that show their work and keep exact fractions instead of decimals. Built from my WGU discrete math notes. |	JavaScript, HTML, CSS, GitHub Pages |
 
 ---
 

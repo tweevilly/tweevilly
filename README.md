@@ -21,11 +21,12 @@ Computer Science grad building applications in Java, Python, SQL, and Spring Boo
 
 ## Tech I work with
 
-**Languages:** Java, Python, SQL
+**Languages:** Java, Python, SQL, TypeScript
 
-**Frameworks and libraries:** Spring Boot, Thymeleaf, Spring Data JPA, Flask, scikit-learn, pandas, NumPy, Matplotlib, Seaborn 
+**Frameworks and libraries:** Spring Boot, Thymeleaf, Spring Data JPA, REST APIs, Angular, Flask, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 
-**Testing and tools:** JUnit, pytest, Maven, Git, GitHub, Jupyter 
+**Testing and tools:** JUnit, pytest, Maven, Git, GitHub, GitLab, Jupyter
+
+**Containers and cloud:** Docker, Docker Hub
 
 **AI tools:** Claude Code, ChatGPT
-

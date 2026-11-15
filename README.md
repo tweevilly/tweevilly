@@ -15,7 +15,7 @@ Computer Science grad building applications in Java, Python, SQL, and Spring Boo
 | [Java Practice Labs](https://github.com/tweevilly/Java_Practice_Labs) |	Concept-by-concept Java exercises and reference notes. |	Java |
 | [Discrete Math Tools](https://github.com/tweevilly/Discrete_Math_Tools)|	Four browser calculators (matrices, sequences and series, truth tables, row reduction) that show their work and keep exact fractions instead of decimals. Built from my WGU discrete math notes. |	JavaScript, HTML, CSS, GitHub Pages |
 |[Disaster Relief Robot](https://github.com/tweevilly/Disaster_Relief_Robot)|An autonomous search-and-rescue robot that avoids debris and reports survivors it finds. | CoppeliaSim Edu, Lua |
-| [Docker Deployment](https://github.com/tweevilly/docker-deployment) | Notes and write-up on containerizing a Spring Boot + Angular app with Docker, publishing it to Docker Hub, and planning an Azure deployment | Java 17, Spring Boot, Angular, Docker, Maven, Azure |
+| [Docker Deployment](https://github.com/tweevilly/Docker_Deployment) | Notes and write-up on containerizing a Spring Boot + Angular app with Docker, publishing it to Docker Hub, and planning an Azure deployment | Java 17, Spring Boot, Angular, Docker, Maven, Azure |
 
 ---
 
